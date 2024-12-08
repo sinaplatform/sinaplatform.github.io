@@ -10,8 +10,8 @@
 locale                   : "en-UK"
 title                    : "SINA platform"
 title_separator          : "Dr"
-name                     : &name "Sina Safari"
-description              : &Scientific infrastructure for Structural Integrity and Nonlinear Analysis"
+name                     : "Sina Safari"
+description              : "Scientific infrastructure for Structural Integrity and Nonlinear Analysis"
 url                      : https://sinaplatform.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sinaplatform/sinaplatform.github.io"
@@ -22,11 +22,11 @@ repository               : "sinaplatform/sinaplatform.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Sina Safari"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "A Data Scientist with domain expertise in Structural Dynamics and Integrity"
+  location         : "Queen’s Building, Bristol, UK"
+  employer         : "University of Bristol"
   uri              : # URL
   email            : "sina.safari@bristol.ac.uk" 
 
