@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Scientific Infrastructure for Data-Centric Structural Integrity and Nonlinear Analysis"
+title: "Data-Centric Structural Integrity and Nonlinear Analysis"
 author_profile: true
 redirect_from: 
   - /about/
