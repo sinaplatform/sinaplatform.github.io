@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Scientific Infrastructure for Data-Centric Structural Integrity and Nonlinear Analysis"
 author_profile: true
 redirect_from: 
   - /about/
