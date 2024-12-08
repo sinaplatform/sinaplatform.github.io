@@ -1,5 +1,5 @@
 # Sina Safari, PhD
-**Scientific Infrastructures for Data-Centric Structural Integrity and Nonlinear Analysis.**
+**Scientific Infrastructures for Data-Centric Structural Integrity and Nonlinear Analysis**
 
 ![Academic Pages template example](images/homepage.png "Academic Pages template example")
 
