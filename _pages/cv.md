@@ -13,7 +13,7 @@ Education
 ======
 * PhD in Engineering, University of Exeter, 2023
 * M.Sc. in Hydraulic Structures, University of Tabriz, 2015
-* B.Sc. in Civil Engineering, Shahid Madani University of Azarbaijan, 2013
+* B.Sc. in Civil Engineering, Azarbaijan Shahid Madani University, 2013
 
 Work experience
 ======
