@@ -11,26 +11,21 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* PhD in Engineering, University of Exeter, 2023
+* M.Sc. in Hydraulic Structures, University of Tabriz, 2015
+* B.Sc. in Civil Engineering, Shahid Madani University of Azarbaijan, 2013
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Spring 2024: Senior Research Associate in Data Science for Material Engineering
+  * Solid Mechanics Research Group, University of Bristol 
+  * Duties included: crossing length scales in metallic systems simulations using ML models
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2023: Postdoctoral Research Assistant
+  * ADDISONIC Research Cluster (ARC), Bournemouth University
+  * Duties included: Lab control, Material testing, Experimental Design, Additive Manufacturing,
+  * Ultrasonic Fatigue testing
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
