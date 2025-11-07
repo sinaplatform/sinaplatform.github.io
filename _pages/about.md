@@ -11,8 +11,8 @@ This website is a platform to publish research activities, scientific notes, and
 
 About me
 ======
-I am a scientist in Engineering with Artificial Intelligence (AI) for applications in Nonlinear Materials and Structural systems, currently a Senior Research Associate in Data Science for Materials Engineering at the University of Bristol (UK). My work sits at the intersection of nonlinear computational mechanics and dynamics, machine learning, and experimental testing, with the overarching goal of developing data-centric frameworks for multiscale modelling, design by analysis and digital twins of engineering structures under extreme operational conditions.
+I am a scientist in Engineering with Artificial Intelligence (AI) for applications in Nonlinear Materials and Structural systems. Currently, I am a Senior Research Associate in Data Science for Materials Engineering at the University of Bristol (UK). My work sits at the intersection of nonlinear computational mechanics and dynamics, machine learning, and experimental testing, with the overarching goal of developing data-centric frameworks for multiscale modelling, design by analysis and digital twins of engineering structures under extreme operational conditions.
 
-My long-term vision is to advance explainable, data-efficient, and physics-grounded AI for design, assessment, and monitoring of materials and structural systems—pushing toward the next generation of intelligent, interpretable, and adaptive approaches that underpin sustainable and resilient engineering design.
+My long-term vision is to advance explainable, data-efficient, and physics-grounded AI for design, assessment, and monitoring of materials and structural systems—pushing toward the next generation of intelligent, interpretable, and adaptive approaches that underpin sustainable and resilient engineering design and assessment.
 
 <br/><img src='/images/workflow.png'>
