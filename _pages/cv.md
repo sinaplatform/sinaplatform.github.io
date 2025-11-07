@@ -19,22 +19,28 @@ Work experience
 ======
 * Spring 2024: Senior Research Associate in Data Science for Material Engineering
   * Solid Mechanics Research Group, University of Bristol 
-  * Duties included: crossing length scales in metallic systems simulations using ML models
+  * Crossing length scales in metallic systems simulations using ML models
 
 * Summer 2023: Postdoctoral Research Assistant
   * ADDISONIC Research Cluster (ARC), Bournemouth University
-  * Duties included: Lab control, Material testing, Experimental Design, Additive Manufacturing,
   * Ultrasonic Fatigue testing
+  * Lab control, Material testing, Experimental Design, Additive Manufacturing
+  * FE model Calibration, Fractography
 
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Nonlinear Structures and Materials
+  * Structural Integrity assessment
+  * Material testing
+  * Vibration Testing and Control
+  * Computational modelling
+  * Design and Analysis
+* Data-Centric Engineering 
+  * Scientific ML
+  * eXplainable AI
+
+
 
 Publications
 ======
