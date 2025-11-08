@@ -5,7 +5,7 @@ category: manuscripts
 permalink: https://www.tandfonline.com/doi/full/10.1080/13632469.2017.1326415
 excerpt: ''
 date: 2017-09-11
-venue: 'Journal 2'
+venue: 'Journal of Earthquake Engineering'
 slidesurl: ''
 paperurl: ''
 citation: ''
