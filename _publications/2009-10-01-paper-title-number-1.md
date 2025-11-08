@@ -5,7 +5,7 @@ category: manuscripts
 permalink: https://journals.sagepub.com/doi/abs/10.1177/1077546316647576
 excerpt: ''
 date: 2016-05-19
-venue: 'Journal 1'
+venue: 'Mechanical Systems and Signal Processing'
 slidesurl: ''
 paperurl: ''
 citation: ''
