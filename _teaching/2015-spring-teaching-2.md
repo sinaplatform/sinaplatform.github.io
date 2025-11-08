@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 2"
+title: "Structural Dynamics"
 collection: teaching
 type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+permalink: 
+venue: "University of Exeter"
+date: 2019-2023
+location: "Exeter, UK"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I have organised tutorials of structural dynamics, including solving analytical and numerical examples, and experimental modal testing workshops.
 
 Heading 1
 ======
