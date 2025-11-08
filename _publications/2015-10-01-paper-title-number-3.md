@@ -5,7 +5,7 @@ category: manuscripts
 permalink: https://www.sciencedirect.com/science/article/pii/S0888327023002030
 excerpt: 'This paper is the first paper of a series of papers in data-driven structural identification of nonlinear assemblies.'
 date: 2023-09-15
-venue: 'Journal 9'
+venue: 'Mechanical Systems and Signal Processing '
 slidesurl: ''
 paperurl: ''
 citation: ''
