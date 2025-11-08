@@ -5,7 +5,7 @@ category: manuscripts
 permalink: https://journals.sagepub.com/doi/abs/10.1177/1077546316647576
 excerpt: ''
 date: 2016-05-19
-venue: 'Mechanical Systems and Signal Processing'
+venue: 'Journal of Vibration and Control'
 slidesurl: ''
 paperurl: ''
 citation: ''
