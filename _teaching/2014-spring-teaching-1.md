@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink:  
 venue: "University of Exeter"
-date: 2013
+date: 2014-01-01
 location: "Exeter, UK"
 ---
 
